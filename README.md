@@ -1,3 +1,4 @@
 # Demo
 testing git hooks
+check post-merge
 # demo
