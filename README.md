@@ -2,4 +2,4 @@
 testing git hooks
 check post-merge
 
-webhooks
+webhooks-pull request
